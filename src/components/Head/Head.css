@@ -1,0 +1,18 @@
+.header{
+	background-color: white; 
+	position: fixed;
+	z-index: 2019;
+	padding-top: 10px;
+	/*height: 70px;*/
+}
+
+.title p{
+  color: rgba(116,164,203,1);
+  font-size: 30px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.btnAdd{
+	text-align: right;
+}
